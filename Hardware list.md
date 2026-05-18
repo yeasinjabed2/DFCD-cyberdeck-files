@@ -24,6 +24,10 @@ https://www.aliexpress.com/item/1005001311947746.html?spm=a2g0o.productlist.main
 
 https://www.scandinavianphoto.no/jupio/np-f970-10050mah-usb-c-input-1061086?_gl=1*1egj611*_up*MQ..*_gs*MQ..&gclid=CjwKCAiAkvDMBhBMEiwAnUA9BY5sMGsIEGkahJAyACMaOqKd51eR54hWRQpXCfJpuzd1-8D9EK2UQRoCTAUQAvD_BwE&gbraid=0AAAAAD7wLDBaqEHkDx796WWIzLpQ90hlU
 
+6x 0B self locking connector female and male
+
+https://www.aliexpress.com/item/1005008630749310.html?spm=a2g0o.order_list.order_list_main.226.2ac11802y60YIY
+
 1 x 2B self locking connector with female plug.
 
 https://www.aliexpress.com/item/1005005348326872.html?spm=a2g0o.productlist.main.12.27bdL3YdL3YdfY&aem_p4p_detail=20260223041952939481064044600002923257&algo_pvid=9d335b38-f0bc-4a89-b765-3f67b99217db&algo_exp_id=9d335b38-f0bc-4a89-b765-3f67b99217db-11&pdp_ext_f=%7B%22order%22%3A%22555%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%2111.16%218.03%21%21%2112.88%219.27%21%40210384b217718491920953005e4d67%2112000032708276815%21sea%21NO%21905713470%21X%211%210%21n_tag%3A-29919%3Bd%3Ac3ce268b%3Bm03_new_user%3A-29895&curPageLogUid=74deDfk1d9z9&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005348326872%7C_p_origin_prod%3A&search_p4p_id=20260223041952939481064044600002923257_3
