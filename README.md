@@ -36,8 +36,10 @@ harvested from a logiteck trackball marble, meaning you need to source one to bu
 **Build instructions**
 Build instructions are available in the wiki.
 You can also watch the assembly video here:
+
 https://www.youtube.com/watch?v=gIWp_F9PPzI
-Building your own version
+
+**Building your own version**
 The DFCD is meant to be modified.
 You can build it as-is, change the modules, redesign the rails, replace the electronics, or use only parts of the system in your own project. If you design a new module or build your own version, I would love to see it.
 
