@@ -1,4 +1,4 @@
-This is the DesignatedFreeCadDevice, a moduar cyberdeck primarily designed to run FreeCad.
+This is the **DesignatedFreeCadDevice**, a moduar cyberdeck primarily designed to run FreeCad.
 
 ![DSCF1779](https://github.com/user-attachments/assets/cbbf986b-326c-486f-9e77-3bc8181b262e)
 **what does it do?**
@@ -16,6 +16,7 @@ Most of the parts can be made with a 3D printer, but not everyone has access to 
 Cables run on the backside, transfering USB betweeen the modules.
 ![DSCF1748](https://github.com/user-attachments/assets/afb27bba-86a3-4399-81f9-8e598e65027f)
 **overview of the device**
+
 The cyberdeck consist of a central core where one can attach both modules that works as input devices and modules that deliver power to the device.
 <img width="1832" height="1294" alt="ISO view" src="https://github.com/user-attachments/assets/12b63319-b272-4477-903d-1e9d93bc4031" />
 The modules are connected with power and signals to the bottom rails.
@@ -27,10 +28,10 @@ On the rigth side we find a the trackball module, and the power module. the powe
 On the forward facing modules you find mounting points for a shoulder strap. On the rear of the central unit you find the lever for releasing the sliding screen,
 <img width="1831" height="1295" alt="Front back" src="https://github.com/user-attachments/assets/2266037e-72e4-4f89-a2b0-ca8d05e22ae0" />
 
-
 **What is the current status on this project?**
 Screen is working, keyboad types and trackball rolls. What i have not done yet is to wire up the scrolling handle and connection module on the left. The trackball electronics is currently 
 harvested from a logiteck trackball marble, meaning you need to source one to build one of these, wich is not optimal. so i want to build my own trackball electronics in the future.
+
 **Build instructions**
 Build instructions are available in the wiki.
 You can also watch the assembly video here:
