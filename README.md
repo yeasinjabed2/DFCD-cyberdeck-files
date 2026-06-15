@@ -4,6 +4,13 @@ This is the DesignatedFreeCadDevice, a moduar cyberdeck primarily designed to ru
 **what does it do?**
 It runs freecad of course :) i developed it mostly to be able to open and modify CAD files while in the workshop, but i also use it to browse the web, opening PDF's and genral computing. It has a keyboard hidden under the sliding screen, as i rarley use a keyboard, but i did want to have a full depth mechanical keyboard whenever i actually use one. The machine is modular so that one can build modules that fits your personal needs. I hope people migth feel inspired to make their own expansion-modules.
 ![DSCF1786](https://github.com/user-attachments/assets/df5e4cd6-41c9-4f8a-bc78-de39ea63718a)
+This project is supported by PCBWay.
+
+Sponsorships help me keep the project files free to download, spend more time improving the CAD design, and document the build so others can modify it for their own needs.
+<img width="370" height="136" alt="last ned (2)" src="https://github.com/user-attachments/assets/ca524a51-96ed-4570-9f5c-af5b1446ea0d" />
+
+Most of the parts can be made with a 3D printer, but not everyone has access to a printer. PCBWay provides manufacturing services such as PCB fabrication, PCB assembly, CNC machining, and 3D printing, so they can be an option if you want to have parts manufactured from the project files instead of making everything yourself.
+
 
 **How is the modules powered?**
 Cables run on the backside, transfering USB betweeen the modules.
